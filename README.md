@@ -1,8 +1,8 @@
 # To-Do List Webpage with Dashboard
 
-![Project Status](![image](https://github.com/user-attachments/assets/410bc1dc-9bd2-4ba8-9980-7e98ab7aec64)
-)
-<[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)>
+(![image](https://github.com/user-attachments/assets/410bc1dc-9bd2-4ba8-9980-7e98ab7aec64)
+
+
 
 This project is a simple, interactive to-do list web application with a built-in dashboard. It allows users to manage their tasks efficiently while providing an overview of their progress.
 
