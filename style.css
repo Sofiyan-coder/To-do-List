@@ -65,7 +65,7 @@ body::before {
 }
 .bottom-left {
   bottom: 40px;
-  left: 80px;
+  left: 50px;
   height: 300px;
   width: 300px;
   background-image: url('assets/ic_top.gif');
