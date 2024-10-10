@@ -1,6 +1,6 @@
 # To-Do List Webpage with Dashboard
 
-(![image](https://github.com/user-attachments/assets/410bc1dc-9bd2-4ba8-9980-7e98ab7aec64)
+![image](https://github.com/user-attachments/assets/410bc1dc-9bd2-4ba8-9980-7e98ab7aec64)
 
 
 
