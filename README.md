@@ -63,10 +63,10 @@ For major changes, please open an issue first to discuss what you would like to 
 
 
 
-Project Link: [https://github.com/yourusername/todo-list-webpage](https://github.com/yourusername/todo-list-webpage)
+Project Link: [https://sofiyan-coder.github.io/To-do-List/](https://sofiyan-coder.github.io/To-do-List/)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Sofiyan-coder">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/Sofiyan-coder">Sofiyan</a>
 </p>
